@@ -36,7 +36,7 @@ This project is aimed at building a predictive model to estimate the `log_price`
 
 ## Usage
 1. **Dataset**: Ensure the "Homestays_Data.csv" dataset is available for analysis.
-2. **Environment Setup**: Set up your Python environment with necessary libraries such as pandas, numpy, scikit-learn, and geopandas.
+2. **Environment Setup**: Set up your Python environment with necessary libraries such as pandas, numpy, scikit-learn, nltk and folium.
 3. **Notebook Execution**: Execute the provided Jupyter notebook or Python scripts to run through the project tasks sequentially.
 
 
